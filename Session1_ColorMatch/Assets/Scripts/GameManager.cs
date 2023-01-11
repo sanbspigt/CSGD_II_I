@@ -36,20 +36,51 @@ public class GameManager : MonoBehaviour
                 GetComponent<Image>().color = 
                 colorList[Random.Range(0, colorList.Length - 1)].color;
 
-           
-            //gridSpace.GetChild(i).gameObject.
-            //    GetComponent<Button>().onClick.
-            //    AddListener(()=>ColorButtonClicked(i));
+            int value = i;
+            gridSpace.GetChild(value).gameObject.
+                GetComponent<Button>().onClick.
+                AddListener(() => ColorButtonClicked(value));
         }
+
+        currGameState = GameState.PLAYING;
     }
 
     public void ColorButtonClicked(int colorIndex)
     {
-        Debug.Log("Index: "+ colorIndex);
-        gridSpace.GetChild(colorIndex).
-            GetComponent<Image>().color = Color.clear;
+        if (currGameState == GameState.PLAYING)
+        {
+            CheckForLevelFail(colorIndex);
+            
+            gridSpace.GetChild(colorIndex).
+                GetComponent<Image>().color = Color.clear;
+
+            CheckForLevelWin(colorIndex);
+        }
+
     }
 
+    void CheckForLevelFail(int clickedIndex)
+    {
+        if (gridSpace.GetChild(clickedIndex).GetComponent<Image>().color != 
+            currColorData.color)
+        {
+            Debug.Log("LEVEL_FAIL");
+           // Show Level Fail Screen
+        }
+    }
+
+    void CheckForLevelWin(int clickedIndex)
+    {
+        for (int i = 0; i < gridSpace.childCount; i++)
+        {
+            if (gridSpace.GetChild(i).GetComponent<Image>().color == currColorData.color)
+            {
+                Debug.Log(currColorData.colorName + " still exists in the grid!!");
+                return;
+            }
+        }
+        Debug.Log("LEVEL WIN");
+    }
 
 
 

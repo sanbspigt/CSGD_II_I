@@ -771,19 +771,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 332236577}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 7
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &332236577
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1103,19 +1091,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 385174284}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 2
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &385174284
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1390,19 +1366,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 528542857}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 6
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &528542857
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1679,19 +1643,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 687095366}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 12
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &687095366
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1811,19 +1763,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 701785620}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 9
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &701785620
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1943,19 +1883,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 713133659}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 17
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &713133659
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2154,19 +2082,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 881475493}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 16
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &881475493
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2286,19 +2202,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 939278809}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 1
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &939278809
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3076,19 +2980,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1076331860}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1076331860
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3246,19 +3138,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1153854018}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 4
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1153854018
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3455,19 +3335,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1155221414}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 15
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1155221414
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3602,7 +3470,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1228343499
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3821,19 +3689,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1412472697}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 14
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1412472697
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3953,19 +3809,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1507694416}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 8
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1507694416
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4164,19 +4008,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1600408464}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 13
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1600408464
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4379,19 +4211,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1700437289}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 5
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1700437289
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5367,19 +5187,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1877893971}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 3
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1877893971
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5655,19 +5463,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1943606667}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 11
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1943606667
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6080,19 +5876,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2090311634}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2047825488}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ColorButtonClicked
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 10
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &2090311634
 MonoBehaviour:
   m_ObjectHideFlags: 0
